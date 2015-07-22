@@ -1,0 +1,30 @@
+index,death_cause,death_cause_english,ICD-10 Codes
+1,Összes halálozás,Total (All Causes),All
+2,Fertõzõ és parazitás betegségek,Infectious & Parasitic Diseases,A00 - B99
+3,Humán immunodeficiencia vírus (HIV) betegség ,AIDS (HIV Disease),B20 - B24
+4,Rosszindulatú daganatok,Total: Malignant Neoplasms,C00 - C97
+5,A gyomor rosszindulatú daganata,Malignant Neoplasm of Stomach,C16
+6,A vastagbél rosszindulatú daganata,Malignant Neoplasm of Colon,C18
+7,Vastagbél és végbél rosszindulatú daganata,Malignant Neoplasm of Colon and Rectum,C18-C20??
+8,"A gége, a légcsõ, a hörgõ és tüdõ  rosszindulatú daganata",Malignant Neoplasm of Lung/Bronchus,C32 - C34
+9,A bõr rosszindulatú melanomája,Malignant Melanoma of Skin,C43
+10,Az emlõ rosszindulatú daganata,Malignant Neoplasm of Breast,C50
+11,A méhnyak rosszindulatú daganata,Malignant Neoplasm of Cervix,C53
+12,A prostata rosszindulatú daganata,Malignant Neoplasm of Prostate,C61
+13,A nyirok- és vérképzõszervek és rokon szövetek rosszindulatú daganatai ,Malignant Neoplasm of Lymphatic Tissue,C81 - C96
+14,Mentális és viselkedészavarok,Mental and Behavioural Disorders,F00 - F99
+15,Keringési rendszer betegségei,Total: Diseases of the Circulatory System,I00 - I99
+16,Ischaemiás szívbetegség,Ischaemic Heart Disease,I20 - I25
+17,Cerebrovasculáris betegségek,Cerebrovascular Disease,I60 - I69
+18,A légzõrendszer betegségei,Total: Diseases of the Respiratory System,J00 - J99
+19,Idült alsó légúti betegségek ,Chronic Lower Respiratory Diseases,J40 - J47
+20,Az emésztõrendszer betegségei,Total: Diseases of the Digestive System,K00 - K93
+21,Krónikus májbetegségek és cirrózis,Chronic Liver Diseases and Cirrhosis,K70-74??
+22,A morbiditás és mortalitás küldõ okai,Total: External Causes,V01 - Y89
+23,Balesetek,Accidents,V01 - X59
+24,Közlekedési balesetek,Transport Accidents,V01 - V99
+25,Esések,Accidental Falls,W00 - W19
+26,Szándékos önártalom,Suicide & Intentional Self Harm,X60 - X84
+27,Testi sértés,Homicide / Assault,X85 - Y09
+28,Elkerülhetõ halálozások,Avoidable deaths (amenable causes),
+29,Dohányzásnak tulajdonítható,Attributable to smoking,
