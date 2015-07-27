@@ -11,6 +11,7 @@ The files are the following:
 - deathcauses2_manipulate_data.R - the data manipulations I did to get the final data
 - deathcauses3_translate.R - translation from the Hungarian to English.
 - death_codes.csv - translations are based on this code file with death causes
+- server.R, ui.R, DESCRIPTION - the files of the related Shiny app
 
 
 After running the 3 code files, the final data file (death_causes.Rda) will include the major causes of death in the last 3 years (2011-2013), by region, sex and age groups.
